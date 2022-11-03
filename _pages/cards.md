@@ -1,13 +1,7 @@
 ---
-keywords: fastai
+title: Student View
+permalink: /studentview/
 layout: notebook
-search_exclude: true
-permalink: /cards/
-nb_path: _notebooks/2022-10-21-cards.ipynb
-categories: [ PBL]
-toc: true
-badges: true
-comments: true
 ---
 
 
