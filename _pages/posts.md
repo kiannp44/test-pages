@@ -2,7 +2,7 @@
 layout: home
 search_exclude: true
 image: images/logo.png
-permalink: /blogs/
+permalink: /blogstest/
 title: Blogs
 ---
 
